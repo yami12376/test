@@ -1,4 +1,4 @@
-package com.election;
+/*package com.election;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,4 +11,4 @@ public class SpringBootWebApplication extends SpringBootServletInitializer {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootWebApplication.class, args);
     }
-}
+}*/
